@@ -1,0 +1,6 @@
+package com.example.collegecounselor.databinding;
+import com.example.collegecounselor.R;
+import com.example.collegecounselor.BR;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+i
